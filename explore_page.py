@@ -1,5 +1,4 @@
 import streamlit as st
-from pywaffle import Waffle
 import squarify
 import pandas as pd
 import matplotlib.pyplot as plt
